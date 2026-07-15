@@ -1,6 +1,6 @@
 <div style="position: relative; width: 100%; height: 10rem; border-radius: 1rem; overflow: hidden;">
     <img
-        src="/assets/banner.jpg"
+        src="/assets/banner.png"
         style="
             width: 100%;
             height: 100%;
